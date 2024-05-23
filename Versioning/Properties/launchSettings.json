@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Versioning": {
+      "commandName": "Project",
+      "commandLineArgs": "patch"
+    }
+  }
+}
