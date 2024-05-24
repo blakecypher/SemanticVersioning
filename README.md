@@ -18,7 +18,7 @@ Please write:
 
 A console application which takes as its argument the type of release of the application. It should read the version object from the file, increment the application’s version number according to the rules above, and save it back to the file, leaving any other contents unaltered.
 
-Output
+## Output
 Your output should include:
 
 - C# code to provide the solution
